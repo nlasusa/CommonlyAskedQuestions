@@ -20,7 +20,7 @@
     color: rgb(211, 211, 211);
 }
 
-.team-header {
+.Q-header {
     font-size: 20px;
     width: 100%; 
     letter-spacing: .5rem;
@@ -34,10 +34,6 @@
     /* margin-top: 60px;  */
     margin-bottom: 10px;
   }
-
-#team-img {
-  border-radius: 25px; 
-} 
 
   .container {
    
@@ -53,6 +49,7 @@
 #question {
     font-size: 21px;
     color: rgb(4, 90, 202);
+    font-weight: bold; 
     font-weight: 400; 
     letter-spacing: .5px; 
     text-align: left;
